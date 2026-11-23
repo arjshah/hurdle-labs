@@ -12,7 +12,7 @@
   "documentationUrl": "https://gohurdle.com/docs/agents/claude-and-chatgpt",
   "supportUrl": "mailto:support@gohurdle.com",
   "termsOfServiceUrl": "https://gohurdle.com/terms",
-  "repositoryUrl": "https://github.com/arjshah/hurdle-labs",
+  "repository": "https://github.com/arjshah/hurdle-labs",
   "privacyPolicyUrl": "https://gohurdle.com/privacy",
   "license": "SEE LICENSE IN LICENSE",
   "keywords": [
