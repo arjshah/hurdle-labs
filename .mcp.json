@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hurdle-labs": {
+      "type": "http",
+      "url": "https://gohurdle.com/api/mcp"
+    }
+  }
+}

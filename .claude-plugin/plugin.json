@@ -1,0 +1,20 @@
+{
+  "name": "hurdle-labs",
+  "displayName": "Hurdle Labs",
+  "version": "1.0.0",
+  "description": "Run a youth activity business on Hurdle from your assistant: look up families, classes, enrollments and what is owed, and make changes that are confirmed before they are saved.",
+  "author": {
+    "name": "Hurdle Labs, Inc.",
+    "url": "https://gohurdle.com",
+    "email": "support@gohurdle.com"
+  },
+  "homepage": "https://gohurdle.com/docs/agents/claude-and-chatgpt",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "youth sports",
+    "classes",
+    "enrollment",
+    "scheduling",
+    "studio management"
+  ]
+}
