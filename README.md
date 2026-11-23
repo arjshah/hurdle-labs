@@ -1,10 +1,10 @@
 # Hurdle for Claude and ChatGPT
 
-Run your youth activity business from your AI assistant. Ask about your classes, families, payments and schedule in plain words, and make everyday changes without opening Hurdle.
+Run a youth sports club or an activity business from your assistant. Ask about members, classes, payments, and the schedule in plain words, and make everyday changes without opening Hurdle.
 
 ## Who it is for
 
-Owners and admins of a business that uses Hurdle: gymnastics, swim, dance, sports clubs and camps. Coaches and families cannot connect. You need a Hurdle account.
+Owners and admins of a club, gym, studio, or school on Hurdle. Instructors and families cannot connect. You need a Hurdle account.
 
 ## What it does
 
